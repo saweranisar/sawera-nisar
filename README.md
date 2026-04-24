@@ -1,6 +1,6 @@
 # sawera-nisar
 my personal repository
-# 🌸 Sawera's Developer Profile
+
 
 ## 👩‍💻 About Me
 
