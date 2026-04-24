@@ -1,5 +1,5 @@
 # sawera-nisar
-my personal repository
+My personal repository
 
 
 ## 👩‍💻 About Me
