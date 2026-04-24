@@ -40,4 +40,4 @@ This repository contains my personal work, practice projects, and learning journ
 
 ---
 
-✨ Always learning, always growing!
+Always learning, always growing!
