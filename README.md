@@ -4,7 +4,7 @@ My personal repository
 
 ## 👩‍💻 About Me
 
-Hi! I'm Sawera, a passionate and aspiring Software Engineer with a growing interest in frontend development and creative design. I enjoy building user-friendly and visually appealing digital experiences.
+Hi! I'm Sawera, a passionate and aspiring Software Engineer with a growing interest in frontend development,backend development and creative design. I enjoy building user-friendly and visually appealing digital experiences.
 
 ##  My Skills
 
