@@ -8,13 +8,13 @@ Hi! I'm Sawera, a passionate and aspiring Software Engineer with a growing inter
 
 ##  My Skills
 
-* 💻 Software Development
-* 🎨 UI/UX Design
-* 🌐 Frontend Development (HTML, CSS, JavaScript)
-* ⚛️ React (Beginner)
-* 🛒 WordPress Development
+*  Software Development
+*  UI/UX Design
+*  Frontend Development (HTML, CSS, JavaScript)
+*  React (Beginner)
+*  WordPress Development
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Git & GitHub
 * VS Code
